@@ -1,0 +1,21 @@
+book	sách
+school	trường học
+student	học sinh
+teach	dạy
+learn	học
+note	ghi nhớ
+read	đọc
+write	viết
+repeat	lặp lại
+apple	quả táo
+bag	cặp sách
+notebook	vở ghi
+computer	máy tính
+mouse	chuột
+keyboard	bàn phím
+about	về
+accept	chấp nhận
+action	hoạt động
+add	cộng
+admit	thừa nhận
+after	sau

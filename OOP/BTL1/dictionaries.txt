@@ -1,0 +1,9 @@
+book	sach
+school	truong hoc
+student	hoc sinh
+teach	day
+learn	hoc
+note	ghi nho
+read	doc
+write	viet
+repeat	lap lai	
